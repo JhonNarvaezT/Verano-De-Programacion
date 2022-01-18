@@ -1,0 +1,10 @@
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\obj\Debug\ejercicio.csprojAssemblyReference.cache
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\obj\Debug\ejercicio.Form1.resources
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\obj\Debug\ejercicio.Properties.Resources.resources
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\obj\Debug\ejercicio.csproj.GenerateResource.cache
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\obj\Debug\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\ejercicio\obj\Debug\ejercicio.pdb

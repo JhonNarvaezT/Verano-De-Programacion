@@ -1,0 +1,7 @@
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\practica-primerdiaverano\bin\Debug\practica-primerdiaverano.exe.config
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\practica-primerdiaverano\bin\Debug\practica-primerdiaverano.exe
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\practica-primerdiaverano\bin\Debug\practica-primerdiaverano.pdb
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\practica-primerdiaverano\obj\Debug\practica-primerdiaverano.csprojAssemblyReference.cache
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\practica-primerdiaverano\obj\Debug\practica-primerdiaverano.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\practica-primerdiaverano\obj\Debug\practica-primerdiaverano.exe
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-primerdiaverano\practica-primerdiaverano\obj\Debug\practica-primerdiaverano.pdb

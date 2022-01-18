@@ -1,0 +1,10 @@
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\bin\Debug\practica-verano-windowsform.exe.config
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\bin\Debug\practica-verano-windowsform.exe
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\bin\Debug\practica-verano-windowsform.pdb
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\obj\Debug\practica-verano-windowsform.csprojAssemblyReference.cache
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\obj\Debug\practica_verano_windowsform.Form1.resources
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\obj\Debug\practica_verano_windowsform.Properties.Resources.resources
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\obj\Debug\practica-verano-windowsform.csproj.GenerateResource.cache
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\obj\Debug\practica-verano-windowsform.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\obj\Debug\practica-verano-windowsform.exe
+C:\Users\JADPA_10\Documents\Visual Studio 2019\practica-verano-windowsform\obj\Debug\practica-verano-windowsform.pdb
