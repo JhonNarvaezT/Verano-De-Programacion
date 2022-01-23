@@ -1,0 +1,11 @@
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\obj\Debug\Cap4.csproj.AssemblyReference.cache
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\obj\Debug\Cap4.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\obj\Debug\Cap4.FrmMultas.resources
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\obj\Debug\Cap4.Properties.Resources.resources
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\obj\Debug\Cap4.csproj.GenerateResource.cache
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\obj\Debug\Cap4.csproj.CoreCompileInputs.cache
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\bin\Debug\Cap4.exe.config
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\bin\Debug\Cap4.exe
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\bin\Debug\Cap4.pdb
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\obj\Debug\Cap4.exe
+C:\Users\usuarioone\Downloads\j-main\j-main\Cap4\Cap4\obj\Debug\Cap4.pdb
